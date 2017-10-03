@@ -1,0 +1,8 @@
+{
+  "IMPORT":["singlecolor"],
+  "FIRST":"<Metal>",
+  "Metal":"This metal is $Color in color, and $Oxide. It is $Composition when solid, and melts at #[473-9000]K.",
+  "Oxide":[
+    "produces {Powder.json}"
+  ]
+}
